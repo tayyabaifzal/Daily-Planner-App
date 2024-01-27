@@ -90,7 +90,7 @@ $("#time-block").append(row);
     //     localStorage.setItem(`task_${hour}`, task);
     //     alert('Task saved successfully!');
     // }
-});
+// });
 
 
 
