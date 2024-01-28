@@ -20,8 +20,10 @@ The app is color-coded for your ease. The colours of the rows shows whether the 
 The link to the deployed app is below:
 
 
+
 You can access the code via github repo link below:
 
+https://github.com/tayyabaifzal/Daily-Planner-App
 
 ## Contact
 For further suggestions or complaints about the app, contact via github repo shown below
