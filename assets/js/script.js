@@ -35,3 +35,6 @@ function usePlanner(){
         }
     });
 }
+
+timeBlockColor();
+usePlanner();
