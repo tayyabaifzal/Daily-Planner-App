@@ -18,7 +18,8 @@ The app is color-coded for your ease. The colours of the rows shows whether the 
 
 ## Links:
 The link to the deployed app is below:
-//////////////////////////////,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+
+https://tayyabaifzal.github.io/Daily-Planner-App/
 
 
 You can access the code via github repo link below:
