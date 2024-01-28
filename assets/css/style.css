@@ -4,6 +4,10 @@ body {
   line-height: 1;
 }
 
+ h1 {
+  font-family: 'Varela round', sans-serif;
+ }
+
 textarea {
   background: transparent;
   border: none;
@@ -35,14 +39,9 @@ header {
   white-space: pre-wrap;
   height: 80px;
   border: 1px solid black;
-  margin: 5px;
 }
 
-/* .container  .col-10 {
-  background-color: #D3D3D3; */
-/* } */
-
-.hour {
+ .hour {
   background-color: #ffffff;
   color: #000000;
   border-top: 1px dashed #000000;
@@ -74,4 +73,5 @@ header {
 .saveBtn i:hover {
   font-size: 20px;
   transition: all 0.3s ease-in-out;
-}
+}  
+
