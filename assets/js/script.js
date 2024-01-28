@@ -24,3 +24,14 @@ saveBtn.on("click", function(){
     localStorage.setItem(time, plan);
 
 });
+
+function usePlanner(){
+    $(".hour").each(function(){
+        var currHour = $(this).text();
+        var currPlan = localStorage.getItem(currHour);
+        
+        if(currPlan !== null){
+            $(this).siblings(".plan").val(currPlan);
+        }
+    });
+}
